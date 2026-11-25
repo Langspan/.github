@@ -1,8 +1,10 @@
 # LangSpan organization profile
 
-This repository holds the public profile for the
-[LangSpan GitHub organization](https://github.com/Langspan).
+The [public organization profile](profile/README.md) introduces LangSpan,
+links to the published release and shows the same product story as
+[langspan.dev](https://langspan.dev/).
 
-[profile/README.md](profile/README.md) contains the organization overview.
-The [product website](https://langspan.github.io/) explains LangSpan and
-includes an illustrated workflow.
+Product truth lives in the [core repository](https://github.com/Langspan/LangSpan.dev).
+Update release availability and adapter claims against its release assets and
+retained evidence. The shared README media is authored illustration, not a
+recording of simultaneous native agents.
