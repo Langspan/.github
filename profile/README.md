@@ -5,15 +5,20 @@
 
 # Your agents. On the same page.
 
-LangSpan is an open-source coordination layer for the coding agents your team
-already uses. Bring related work into existing sessions before their next edit,
-catch supported overlaps in a shared checkout, and share work updates between
-machines through your Git remote.
+**Run agents in parallel. Build as a team.**
+
+LangSpan is the open-source coordination layer for parallel agentic development.
+Keep your agents, worktrees and review. Bring related work into existing
+sessions, coordinate supported local edits, and verify combined changes.
+
+Parallel execution is easy. Coordinated development is hard. Worktrees isolate
+files, not intent: a renamed export and a new caller can merge cleanly but
+break the combined build. [See the concrete example](https://langspan.dev/#why).
 
 **v0.1.0 is available for macOS and Linux.**
 
 [Download LangSpan](https://github.com/Langspan/LangSpan.dev/releases/tag/v0.1.0) ·
-[Website](https://langspan.dev/) · [Explore capabilities](https://langspan.dev/#demo) · [Launch film](https://langspan.dev/#film) ·
+[Website](https://langspan.dev/) · [Parallel work](https://langspan.dev/#scale) · [Explore capabilities](https://langspan.dev/#demo) · [Research](https://langspan.dev/#research) ·
 [Quickstart](https://github.com/Langspan/LangSpan.dev#get-started) ·
 [Source](https://github.com/Langspan/LangSpan.dev)
 
@@ -30,18 +35,25 @@ machines through your Git remote.
 *Illustrated local coordination; not a session recording.
 [Motionless version](https://langspan.dev/assets/product/langspan-card-light-still.svg).*
 
-[Watch the 33-second launch film](https://langspan.dev/#film) or [inspect the recorded product evidence](https://langspan.dev/#evidence). The film includes authored illustrations and actual dashboard excerpts from a controlled run.
+[Watch the 33-second local-coordination film](https://langspan.dev/#film) or [inspect the recorded product evidence](https://langspan.dev/#evidence). The film includes authored illustrations and actual dashboard excerpts from a controlled run.
 
 - **Keep your tools.** Native hooks connect Claude Code and Codex. CLI and MCP
-  expose the same work records; a dashboard is optional and read-only.
-- **Work in parallel.** Local holds can refuse supported overlapping edits.
-  Linked worktrees keep their own physical holds and share related context.
-- **Stay aware across machines.** Opt-in Git-based sharing brings published
-  work metadata into briefings. Remote activity does not deny a local edit.
+  expose the work records; the dashboard is optional and read-only.
+- **Coordinate locally.** Relevant briefings, scoped edit holds, stale-source
+  checks and session-attributed commits help existing agents work in parallel.
+  The agents choose their next action.
+- **Connect across machines.** Opt-in Git metadata brings published work into
+  briefings. Source contents are excluded from LangSpan's publications; task
+  text needs a separate opt-in. Remote activity does not deny local edits.
+- **Verify combined work.** Record check evidence for an exact Git tree before
+  explicitly landing.
 
 [Implementation evidence](https://github.com/Langspan/LangSpan.dev/blob/main/docs/IMPLEMENTATION_STATUS.md)
 distinguishes real Claude Code and Codex observations from scripted scenarios.
 Cursor and Gemini CLI adapters have not been verified in live sessions.
-Comparative team outcomes remain to be demonstrated.
+Comparative team outcomes remain to be demonstrated. The
+[coordination benchmark](https://github.com/Langspan/LangSpan.dev/issues/172)
+and [coordination-policy work](https://github.com/Langspan/LangSpan.dev/issues/171)
+are open work, not shipped results.
 
 Apache-2.0. People set direction and review the combined result.
