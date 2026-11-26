@@ -13,11 +13,11 @@ machines through your Git remote.
 **v0.1.0 is available for macOS and Linux.**
 
 [Download LangSpan](https://github.com/Langspan/LangSpan.dev/releases/tag/v0.1.0) ·
-[Website](https://langspan.dev/) · [Launch film](https://langspan.dev/#film) ·
+[Website](https://langspan.dev/) · [Explore capabilities](https://langspan.dev/#demo) · [Launch film](https://langspan.dev/#film) ·
 [Quickstart](https://github.com/Langspan/LangSpan.dev#get-started) ·
 [Source](https://github.com/Langspan/LangSpan.dev)
 
-<a href="https://langspan.dev/#demo">
+<a href="https://langspan.dev/#edit-coordination">
   <picture>
     <source media="(max-width: 600px)" srcset="https://langspan.dev/assets/product/langspan-overview-compact.svg">
     <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://langspan.dev/assets/product/langspan-card-dark-still.svg">
