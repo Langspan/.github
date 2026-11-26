@@ -7,6 +7,8 @@
 
 **Run agents in parallel. Build as a team.**
 
+[![Latest stable release](https://img.shields.io/github/v/release/Langspan/LangSpan.dev?style=flat-square&labelColor=151513&display_name=tag&sort=date&color=A34A34)](https://github.com/Langspan/LangSpan.dev/releases/latest) [![Rust checks on main](https://github.com/Langspan/LangSpan.dev/actions/workflows/check.yml/badge.svg?branch=main&event=push)](https://github.com/Langspan/LangSpan.dev/actions/workflows/check.yml) [![Core license](https://img.shields.io/github/license/Langspan/LangSpan.dev?style=flat-square&labelColor=151513&color=3F3E44)](https://github.com/Langspan/LangSpan.dev/blob/main/LICENSE) [![Supported release platforms: macOS and Linux](https://img.shields.io/badge/platform-macOS%20%7C%20Linux-3F3E44?style=flat-square&labelColor=151513)](https://langspan.dev/#start) [![Project website](https://img.shields.io/badge/website-langspan.dev-3F3E44?style=flat-square&labelColor=151513)](https://langspan.dev/)
+
 LangSpan is the open-source coordination layer for parallel agentic development.
 Keep your agents, worktrees and review. Bring related work into existing
 sessions, coordinate supported local edits, and verify combined changes.
@@ -15,10 +17,10 @@ Parallel execution is easy. Coordinated development is hard. Worktrees isolate
 files, not intent: a renamed export and a new caller can merge cleanly but
 break the combined build. [See the concrete example](https://langspan.dev/#why).
 
-**v0.1.0 is available for macOS and Linux.**
+**Available for macOS and Linux.**
 
-[Download LangSpan](https://github.com/Langspan/LangSpan.dev/releases/tag/v0.1.0) ·
-[Website](https://langspan.dev/) · [Parallel work](https://langspan.dev/#scale) · [Explore capabilities](https://langspan.dev/#demo) · [Research](https://langspan.dev/#research) ·
+[Download LangSpan](https://github.com/Langspan/LangSpan.dev/releases/latest) ·
+[Website](https://langspan.dev/) · [LangSpan Live](https://langspan.dev/#langspan-live) · [Parallel work](https://langspan.dev/#scale) · [Explore capabilities](https://langspan.dev/#demo) · [Research](https://langspan.dev/#research) ·
 [Quickstart](https://github.com/Langspan/LangSpan.dev#get-started) ·
 [Source](https://github.com/Langspan/LangSpan.dev)
 
