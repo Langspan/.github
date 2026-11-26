@@ -13,7 +13,7 @@ machines through your Git remote.
 **v0.1.0 is available for macOS and Linux.**
 
 [Download LangSpan](https://github.com/Langspan/LangSpan.dev/releases/tag/v0.1.0) ·
-[Website](https://langspan.dev/) ·
+[Website](https://langspan.dev/) · [Launch film](https://langspan.dev/#film) ·
 [Quickstart](https://github.com/Langspan/LangSpan.dev#get-started) ·
 [Source](https://github.com/Langspan/LangSpan.dev)
 
@@ -29,6 +29,8 @@ machines through your Git remote.
 
 *Illustrated local coordination; not a session recording.
 [Motionless version](https://langspan.dev/assets/product/langspan-card-light-still.svg).*
+
+[Watch the 33-second launch film](https://langspan.dev/#film) or [inspect the recorded product evidence](https://langspan.dev/#evidence). The film includes authored illustrations and actual dashboard excerpts from a controlled run.
 
 - **Keep your tools.** Native hooks connect Claude Code and Codex. CLI and MCP
   expose the same work records; a dashboard is optional and read-only.
